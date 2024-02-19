@@ -1,0 +1,7 @@
+C:\Users\Dein\source\repos\MiMotorcito7\MiMotorcito7\obj\Debug\MiMotorcito7.csproj.AssemblyReference.cache
+C:\Users\Dein\source\repos\MiMotorcito7\MiMotorcito7\obj\Debug\MiMotorcito7.csproj.CoreCompileInputs.cache
+C:\Users\Dein\source\repos\MiMotorcito7\MiMotorcito7\bin\Debug\MiMotorcito7.exe.config
+C:\Users\Dein\source\repos\MiMotorcito7\MiMotorcito7\bin\Debug\MiMotorcito7.exe
+C:\Users\Dein\source\repos\MiMotorcito7\MiMotorcito7\bin\Debug\MiMotorcito7.pdb
+C:\Users\Dein\source\repos\MiMotorcito7\MiMotorcito7\obj\Debug\MiMotorcito7.exe
+C:\Users\Dein\source\repos\MiMotorcito7\MiMotorcito7\obj\Debug\MiMotorcito7.pdb

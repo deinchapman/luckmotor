@@ -1,0 +1,13 @@
+    void ABCMATH()
+        {
+            List<string> ABC1 = ["a", "b", "c"];
+            List<string> ABC2 = ["d", "e", "f"];
+            List<string> ABC3 = ["g", "h", "i"];
+            List<string> ABC4 = ["j", "k", "l"];
+            List<string> ABC5 = ["m", "n", "o"];
+            List<string> ABC6 = ["p", "q", "r"];
+            List<string> ABC7 = ["s", "t", "u"];
+            List<string> ABC8 = ["v", "w"];
+            List<string> ABC9 = ["x", "y"];
+            List<string> ABC0 = ["z", "ñ"];
+        }
